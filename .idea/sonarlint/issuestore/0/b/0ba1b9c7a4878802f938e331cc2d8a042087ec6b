@@ -1,0 +1,4 @@
+
+b
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(—ğ¼£úÿÿÿÿ8ÑÿğñÅ1
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8´ÒôñÅ1

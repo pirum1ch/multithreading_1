@@ -1,0 +1,12 @@
+
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8øÊÖñÅ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(‰”šÊ8í‚ìÅ1
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‰”šÊ8î‚ìÅ1
+G	java:S106!"+Replace this use of System.out by a logger.(ÉÃ­æ8ï‚ìÅ1
+L	java:S106%"+Replace this use of System.out by a logger.(ôĞ¦›ÿÿÿÿÿ8ğ‚ìÅ1
+:
+java:S2119)"Save and re-use this "Random".(¼İÅf8ñ‚ìÅ1
+{
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÔËÖñÅ1
